@@ -1,0 +1,8 @@
+[package]
+name = "deepseek-app-unofficial"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gtk = { version = "0.15", features = ["v3_22"] }
+webkit2gtk = "0.18"
